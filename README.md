@@ -114,16 +114,16 @@ export class App {
 
 ## Contributing
 
-Contributions are welcome! Please open issues or pull requests on the [GitHub repository](#) (add your repo link here).
+Contributions are welcome! Please open issues or pull requests on the github repository [ngx-spellchecker-ivy](https://github.com/munir-fati-haji/ngx-spellchecker-ivy).
 
 ---
 
 ## License
 
-MIT License © Munir
+MIT License © Munir Fati Haji
 
 ---
 
 ## Acknowledgments
 
-This project is a fork of the original [ngx-spellchecker](https://www.npmjs.com/package/ngx-spellchecker) by [original author](link if known).
+This project is a fork of the original [ngx-spellchecker](https://www.npmjs.com/package/ngx-spellchecker) by Original Authors [aroliant-admin](https://www.npmjs.com/~aroliant-admin), [jacobsamro](https://www.npmjs.com/~jacobsamro).
