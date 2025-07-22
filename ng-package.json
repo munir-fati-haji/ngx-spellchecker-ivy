@@ -3,5 +3,6 @@
   "dest": "../../dist/ngx-spellchecker-ivy",
   "lib": {
     "entryFile": "src/public-api.ts"
-  }
+  },
+  "allowedNonPeerDependencies": ["binarysearch", "damerau-levenshtein", "tslib"]
 }
